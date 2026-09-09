@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Yash%20Vardhan%20Das%20🚀&fontSize=40&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Yashvardhan%20Das%20🚀&fontSize=40&fontColor=fff&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+CSE+Student;Machine+Learning+Enthusiast;Building+Industrial+AI+Solutions;Open+to+AI%2FML+Internships" />
